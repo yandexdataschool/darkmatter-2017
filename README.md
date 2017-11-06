@@ -13,6 +13,6 @@ Milestones:
 Some links on Physics motivation (beware of heavy Physics terminology):
 - SHiP experiment, http://ship.web.cern.ch/ship/
 - OPERA experiment, http://operaweb.lngs.infn.it/
+- Andrey Golutvin, Richard Jacobson interview on new experiment SHiP on Russian TV
 - SHiP technical design report, https://arxiv.org/abs/1504.04855
 - SHiP talks, https://twiki.cern.ch/twiki/bin/viewauth/Ship/ShipTalks, https://twiki.cern.ch/twiki/pub/Ship/ShipTalks/shipseminar.pdf
-
