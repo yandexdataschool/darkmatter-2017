@@ -1,0 +1,117 @@
+name: root
+channels:
+- nlesc
+- defaults
+dependencies:
+- backports_abc=0.5=py34_0
+- ca-certificates=2017.08.26=h1d4fec5_0
+- cairo=1.12.18=6
+- cloog=0.18.0=0
+- cycler=0.10.0=py34_0
+- dbus=1.10.22=h3b5a359_0
+- decorator=4.0.11=py34_0
+- entrypoints=0.2.2=py34_0
+- expat=2.2.5=he0dffb1_0
+- fontconfig=2.11.1=6
+- freetype=2.5.5=2
+- glib=2.53.6=h5d9569c_2
+- graphite2=1.3.10=hc526e54_0
+- gst-plugins-base=1.12.2=he3457e5_0
+- gstreamer=1.12.2=h4f93127_0
+- harfbuzz=0.9.39=1
+- hdf5=1.8.17=2
+- icu=54.1=0
+- intel-openmp=2018.0.0=h15fc484_7
+- ipykernel=4.5.2=py34_0
+- ipython=5.1.0=py34_0
+- ipython_genutils=0.1.0=py34_0
+- ipywidgets=5.2.2=py34_1
+- jbig=2.1=hdba287a_0
+- jinja2=2.9.6=py34_0
+- jpeg=8d=2
+- jsonschema=2.5.1=py34_0
+- jupyter=1.0.0=py34_3
+- jupyter_client=4.4.0=py34_0
+- jupyter_console=5.0.0=py34_0
+- jupyter_core=4.2.1=py34_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc=7.2.0=h69d50b8_2
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libgfortran=3.0.0=1
+- libiconv=1.15=h63c8f33_5
+- libpng=1.6.32=hda9c8bc_2
+- libsodium=1.0.13=h31c71d8_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- libtiff=4.0.6=2
+- libxcb=1.12=h84ff03f_3
+- libxml2=2.9.4=0
+- markupsafe=1.0=py34_0
+- matplotlib=2.0.0=np111py34_0
+- mistune=0.7.3=py34_0
+- mkl=2017.0.4=h4c4d0af_0
+- nbconvert=4.2.0=py34_0
+- nbformat=4.2.0=py34_0
+- notebook=4.3.1=py34_0
+- numexpr=2.6.1=np111py34_2
+- numpy=1.11.3=py34_0
+- openssl=1.0.2m=h8cfc7e7_0
+- pandas=0.19.2=np111py34_1
+- pango=1.39.0=0
+- path.py=10.0=py34_0
+- pexpect=4.2.1=py34_0
+- pickleshare=0.7.4=py34_0
+- pip=9.0.1=py34_1
+- pixman=0.32.6=0
+- prompt_toolkit=1.0.9=py34_0
+- ptyprocess=0.5.1=py34_0
+- pygments=2.1.3=py34_0
+- pyparsing=2.2.0=py34_0
+- pyqt=5.6.0=py34_2
+- pytables=3.3.0=np111py34_0
+- python=3.4.5=0
+- python-dateutil=2.6.1=py34_0
+- pytz=2017.2=py34_0
+- pyzmq=16.0.2=py34_0
+- qt=5.6.2=0
+- qtconsole=4.2.1=py34_1
+- scipy=0.18.1=np111py34_1
+- setuptools=27.2.0=py34_0
+- simplegeneric=0.8.1=py34_1
+- sip=4.18=py34_0
+- six=1.10.0=py34_0
+- sqlite=3.13.0=0
+- terminado=0.6=py34_0
+- tk=8.5.18=0
+- tornado=4.4.2=py34_0
+- traitlets=4.3.1=py34_0
+- wcwidth=0.1.7=py34_0
+- wheel=0.29.0=py34_0
+- widgetsnbextension=1.2.6=py34_0
+- xz=5.2.3=h55aa19d_2
+- zeromq=4.1.5=0
+- zlib=1.2.11=ha838bed_2
+- fftw=3.3.4=2
+- gcc=4.8.2=25
+- glibc=2.12.2=3
+- gmp=5.1.2=3
+- graphviz=2.38.0=4
+- gsl=1.16=2
+- isl=0.12.2=2
+- linux-headers=2.6.32=1
+- mpc=1.0.1=2
+- mpfr=3.1.2=2
+- ncurses=5.9=99
+- pcre=8.37=5
+- readline=6.2=99
+- root=6.04=py3.4_gcc4.8.2
+- root_numpy=4.3.0=root6.04_py3.4
+- pip:
+  - backports-abc==0.5
+  - ipython-genutils==0.1.0
+  - jupyter-client==4.4.0
+  - jupyter-console==5.0.0
+  - jupyter-core==4.2.1
+  - prompt-toolkit==1.0.9
+  - root-numpy==4.3.0.dev0
+  - tables==3.3.0
+
