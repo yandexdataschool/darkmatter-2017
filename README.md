@@ -16,3 +16,5 @@ Some links on Physics motivation (beware of heavy Physics terminology):
 - Andrey Golutvin, Richard Jacobson interview on new experiment SHiP on Russian TV
 - SHiP technical design report, https://arxiv.org/abs/1504.04855
 - SHiP talks, https://twiki.cern.ch/twiki/bin/viewauth/Ship/ShipTalks, https://twiki.cern.ch/twiki/pub/Ship/ShipTalks/shipseminar.pdf
+
+[![run at everware](https://img.shields.io/badge/run%20me-@everware-blue.svg?style=flat)](https://everware.ysda.yandex.net/hub/oauth_login?repourl=https://github.com/wyye/darkmatter-2017)
